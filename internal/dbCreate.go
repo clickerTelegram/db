@@ -18,7 +18,6 @@ var database *gorm.DB
 
 var initializers = []func() error{
 	initSettings,
-	initSettings,
 }
 
 func initSettings() error {
