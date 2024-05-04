@@ -4,7 +4,7 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"github.com/clickerTelegram/db/internal/postgres"
+	"github.com/clickerTelegram/db/postgres"
 	"github.com/spf13/cobra"
 )
 
