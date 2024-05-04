@@ -4,7 +4,7 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"github.com/clickerTelegram/db/internal"
+	"github.com/clickerTelegram/db/internal/postgres"
 	"github.com/spf13/cobra"
 )
 
@@ -22,7 +22,7 @@ to quickly create a Cobra application.`,
 }
 
 func RunDb(_ *cobra.Command, _ []string) {
-	internal.DbCreate()
+	postgres.DbCreate()
 }
 
 func init() {

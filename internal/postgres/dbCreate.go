@@ -1,4 +1,4 @@
-package internal
+package postgres
 
 import (
 	"github.com/clickerTelegram/type/db"
