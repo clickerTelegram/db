@@ -5,6 +5,7 @@ package cmd
 
 import (
 	"github.com/clickerTelegram/db/postgres"
+	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )
 
@@ -23,6 +24,8 @@ to quickly create a Cobra application.`,
 
 func RunDb(_ *cobra.Command, _ []string) {
 	postgres.DbCreate()
+	logrus.Info("Creating database ..... ")
+
 }
 
 func init() {

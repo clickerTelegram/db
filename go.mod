@@ -3,7 +3,7 @@ module github.com/clickerTelegram/db
 go 1.22.2
 
 require (
-	github.com/clickerTelegram/type v0.0.0-20240503200238-efbf12d39610
+	github.com/clickerTelegram/type v0.0.0-20240516195344-fbdccfbb4877
 	github.com/go-playground/validator/v10 v10.20.0
 	github.com/golobby/config/v3 v3.4.2
 	github.com/sirupsen/logrus v1.9.3

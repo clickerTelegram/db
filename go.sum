@@ -1,7 +1,7 @@
 github.com/BurntSushi/toml v1.2.1 h1:9F2/+DoOYIOksmaJFPw1tGFy1eDnIJXg+UHjuD8lTak=
 github.com/BurntSushi/toml v1.2.1/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
-github.com/clickerTelegram/type v0.0.0-20240503200238-efbf12d39610 h1:niBhVjsFKmkrWVhZTZmXdRCCyq3PNrlczAzNdRdMJlQ=
-github.com/clickerTelegram/type v0.0.0-20240503200238-efbf12d39610/go.mod h1:ubsn3OG/e1nZNsNsjNz8dNXcJcJjosxzcNB3KFh6m70=
+github.com/clickerTelegram/type v0.0.0-20240516195344-fbdccfbb4877 h1:aMQ7UGioN8+Q0Fxib1gqqM0r7H/SmATUPyP6WEwL80o=
+github.com/clickerTelegram/type v0.0.0-20240516195344-fbdccfbb4877/go.mod h1:pcHXERBUbYNg2BFc1J3S/n4SI8Hs3RVb3OaYAKese1s=
 github.com/cpuguy83/go-md2man/v2 v2.0.3/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
